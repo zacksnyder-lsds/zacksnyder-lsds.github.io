@@ -4,4 +4,4 @@ title: Resume
 subtitle: My Resume 
 ---
 
-![Image Title](resume1.pdf){width=65%}
+![Resume](resume1.pdf){width=100% height=400}
