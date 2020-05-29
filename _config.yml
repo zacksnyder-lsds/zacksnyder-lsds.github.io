@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://zacksnyder-lsds.github.io/"
 
 # --- Logo --- #
 
@@ -80,14 +80,14 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#2d545e"
+navbar-text-col: "#e1b382"
 navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
+page-col: "#e1b382"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#2d545e"
+footer-text-col: "#e1b382"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
