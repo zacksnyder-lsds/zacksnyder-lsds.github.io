@@ -13,9 +13,7 @@ author: Zachary Snyder
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "resume"
   Author's home: "https://zacksnyder-lsds.github.io/"
 
 # --- Logo --- #
