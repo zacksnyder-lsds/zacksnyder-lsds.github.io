@@ -40,7 +40,7 @@ round-avatar: true
 social-network-links:
   email: "zacksnyder1998@gmail.com"
   #facebook: deanattali
-  github: daattali
+  github: "https://github.com/zacksnyder-lsds"
   #twitter: daattali
   rss: false
 #  reddit: yourname
