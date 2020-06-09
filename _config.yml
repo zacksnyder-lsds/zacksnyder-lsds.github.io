@@ -12,9 +12,9 @@ author: Zachary Snyder
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me:
     - Strengths and Weaknesses: "strengths_and_weaknesses"
-  Resume: "resume"
+    - Resume: "resume"
   Author's home: "https://zacksnyder-lsds.github.io/"
 
 # --- Logo --- #
