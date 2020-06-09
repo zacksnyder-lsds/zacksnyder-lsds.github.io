@@ -13,6 +13,7 @@ author: Zachary Snyder
 
 navbar-links:
   About Me: "aboutme"
+    - Strengths and Weaknesses: "strengths_and_weaknesses"
   Resume: "resume"
   Author's home: "https://zacksnyder-lsds.github.io/"
 
