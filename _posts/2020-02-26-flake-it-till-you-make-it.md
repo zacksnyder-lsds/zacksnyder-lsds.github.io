@@ -5,7 +5,7 @@ subtitle: An Analysis of the Demographics in the Kiva Lending Dataset
 cover-img: assets/img/kiva feature photo 2.jpg
 ---
 
-##What is Kiva?
+\underline{\textbf{What is Kiva?}}
 
 - Online Non-profit Service founded in 2005 in San-Francisco
 - Facilitate borrowing and lending between users
@@ -13,11 +13,11 @@ cover-img: assets/img/kiva feature photo 2.jpg
 - Payments are made back to the initial lender with interest
 - Lenders can choose who they would like to fund and for wha
 
-##Who gets the money?
+<b>Who gets the money?</b>
 
 The fundamental question that this brings up is who is served by this lending service? Since the service helps individuals by providing them with funds, we can specify this question further to ask who are lenders choosing to give their money too? This question is fundamental to the mission of Kiva to extend financial access to under-served communities. Correct matching of this question to the mission of Kiva can radically change the lives of individuals without access to the resources needed to escape from poverty otherwise.
 
-##Breaking the question down
+<b>Breaking the question down</b>
 
 This question can be solved using three smaller fundamental questions that make up the whole
 
@@ -25,7 +25,7 @@ This question can be solved using three smaller fundamental questions that make 
 - What sector within those countries get the most loans
 - What demographic within those sectors get the most loans
 
-##What Country gets the most loans?
+<b>What Country gets the most loans?</b>
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~zacksnyder1998/19/.embed" height="525" width="100%"></iframe>
 
