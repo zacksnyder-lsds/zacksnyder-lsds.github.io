@@ -2,14 +2,32 @@
 layout: post
 title: Who Gets the Money?
 subtitle: An Analysis of the Demographics in the Kiva Lending Dataset
-cover-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: assets/img/kiva feature photo 2.jpg
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+##What is Kiva?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+- Online Non-profit Service founded in 2005 in San-Francisco
+- Facilitate borrowing and lending between users
+- loans for small amounts to fund entrepreneurial ventures
+- Payments are made back to the initial lender with interest
+- Lenders can choose who they would like to fund and for wha
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+##Who gets the money?
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+The fundamental question that this brings up is who is served by this lending service? Since the service helps individuals by providing them with funds, we can specify this question further to ask who are lenders choosing to give their money too? This question is fundamental to the mission of Kiva to extend financial access to under-served communities. Correct matching of this question to the mission of Kiva can radically change the lives of individuals without access to the resources needed to escape from poverty otherwise.
+
+##Breaking the question down
+
+This question can be solved using three smaller fundamental questions that make up the whole
+
+- What country gets the most loans
+- What sector within those countries get the most loans
+- What demographic within those sectors get the most loans
+
+##What Country gets the most loans?
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~zacksnyder1998/19/.embed" height="525" width="100%"></iframe>
+
+The graph above shows clearly that from the countries Kiva serves, The Philippines by far receives the largest amount of loans. This makes sense given that the Philippines is focusing on improving technology infrastructure (and Kiva being reliant on its users' ability to access technology to apply for loans), while still being a developing country in the process of building new businesses to grow into the future and improve the lives of its citizens.
+We can also tell from this graph that all countries receive on average the same loan amount on each loan, except for the United States which is significantly higher.
