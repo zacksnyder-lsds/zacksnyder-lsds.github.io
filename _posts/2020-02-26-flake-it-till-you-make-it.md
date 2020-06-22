@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Who Gets the Money?
+subtitle: An Analysis of the Demographics in the Kiva Lending Dataset
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 ---
